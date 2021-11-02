@@ -23,9 +23,7 @@ const Register = ({handleSubmit, modal, responseStatus}) => {
     <section className="register">
         <div className="content register__content">
           <form action="#" name="register" className="register__form" onSubmit={submit} >
-            <Link to="/" className="register__logo">
-              <img src={logo} className="register__logo-img" alt="logo" />
-            </Link>
+            <img src={logo} className="register__logo-img" alt="logo" />
             <fieldset className="register__fieldset">
               <legend>
                 <h2 className="register__title">Добро пожаловать!</h2>
