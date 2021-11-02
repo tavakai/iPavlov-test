@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/iPavlov-test/static/css/main.b5606938.chunk.css",
-    "main.js": "/iPavlov-test/static/js/main.d473cc5d.chunk.js",
-    "main.js.map": "/iPavlov-test/static/js/main.d473cc5d.chunk.js.map",
+    "main.css": "/iPavlov-test/static/css/main.c045743f.chunk.css",
+    "main.js": "/iPavlov-test/static/js/main.63e9aa8b.chunk.js",
+    "main.js.map": "/iPavlov-test/static/js/main.63e9aa8b.chunk.js.map",
     "runtime-main.js": "/iPavlov-test/static/js/runtime-main.b9e13c6b.js",
     "runtime-main.js.map": "/iPavlov-test/static/js/runtime-main.b9e13c6b.js.map",
     "static/js/2.a85b386e.chunk.js": "/iPavlov-test/static/js/2.a85b386e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.217cd618.chunk.js": "/iPavlov-test/static/js/3.217cd618.chunk.js",
     "static/js/3.217cd618.chunk.js.map": "/iPavlov-test/static/js/3.217cd618.chunk.js.map",
     "index.html": "/iPavlov-test/index.html",
-    "static/css/main.b5606938.chunk.css.map": "/iPavlov-test/static/css/main.b5606938.chunk.css.map",
+    "static/css/main.c045743f.chunk.css.map": "/iPavlov-test/static/css/main.c045743f.chunk.css.map",
     "static/js/2.a85b386e.chunk.js.LICENSE.txt": "/iPavlov-test/static/js/2.a85b386e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/iPavlov-test/static/media/Inter-Regular.e148c4a1.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b9e13c6b.js",
     "static/js/2.a85b386e.chunk.js",
-    "static/css/main.b5606938.chunk.css",
-    "static/js/main.d473cc5d.chunk.js"
+    "static/css/main.c045743f.chunk.css",
+    "static/js/main.63e9aa8b.chunk.js"
   ]
 }
