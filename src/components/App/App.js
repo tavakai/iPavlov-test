@@ -128,7 +128,7 @@ function App() {
         return err;
       })
   }, []);
-  console.log('Rendering')
+
   return (
     <CurrentUserContext.Provider value={currentUser}>
       <div className="App">
