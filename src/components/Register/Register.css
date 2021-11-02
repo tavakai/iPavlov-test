@@ -1,0 +1,113 @@
+.register__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 70px 0px;
+}
+.register__logo {
+  align-self: flex-start;
+}
+.register__form {
+  max-width: 396px;
+  width: 100%;
+}
+.register__fieldset {
+  border: none;
+  padding: 0;
+  margin: 40px 0px 69px 0px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.register__title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  margin-bottom: 30px;
+}
+.register__error {
+  color: #ff3300;
+  font-size: 11px;
+}
+.register__error_name {
+  position: absolute;
+  top: 95px;
+}
+.register__error_email {
+  position: absolute;
+  top: 192px;
+}
+.register__error_password {
+  position: absolute;
+  top: 292px;
+}
+.register__input-title {
+  font-size: 10px;
+  line-height: 12px;
+  color: #A0A0A0;
+  padding: 0;
+  margin: 20px 0px 0px 0px;
+}
+.register__input {
+  background: #F9F9F9;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  font-size: 13px;
+  line-height: 16px;
+  height: 46px;
+  margin: 10px 0px;
+  padding-left: 15px; 
+}
+.register__input-error {
+  font-size: 10px;
+  line-height: 12px;
+  color: #EE3465;
+  margin: 0;
+}
+.register__btn {
+  background: #f5f5f5;
+  border-radius: 3px;
+  border: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
+  height: 45px;
+  width: 100%;
+  margin: 69px 0px 0px 0px;
+}
+.register__btn_active {
+  background: #FF6838;
+  cursor: pointer;
+}
+.register__btn_active:hover {
+opacity: .8;
+}
+.register__signin-text {
+  margin: 16px 0px 0px 0px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #A0A0A0;
+}
+.register__signin-btn {
+  font-size: 14px;
+  line-height: 17px;
+  color: #FF6838;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+  .register__signin-text {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .register__signin-btn {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .register__btn {
+    font-size: 12px;
+    line-height: 15px;
+  }
+}

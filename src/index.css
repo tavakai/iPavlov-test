@@ -1,0 +1,8 @@
+@import url('./vendor/normalize.css');
+@import url('./vendor/fonts/fonts.css');
+@import url('./components/Page/Page.css');
+@import url('./components/Preloader/Preloader.css');
+@import url('./components/Profile/Profile.css');
+@import url('./components/Register/Register.css');
+@import url('./components/Login/Login.css');
+@import url('./components/Modal/Modal.css');
