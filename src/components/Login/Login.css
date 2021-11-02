@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 70px 0px;
+  padding: 70px 30px;
 }
 .login__logo {
   align-self: flex-start;
@@ -87,7 +87,10 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
+  .login__content {
+    padding: 40px 30px;
+  }
   .login__signup-text {
     font-size: 12px;
     line-height: 15px;
