@@ -2,6 +2,7 @@
   "name": "ipavlov-form",
   "version": "0.1.0",
   "description": "Тестовое задание iPavlov",
+  "homepage": "https://tavakai.github.io/iPavlov-test/",
   "dependencies": {
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
